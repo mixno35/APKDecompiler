@@ -1,0 +1,9 @@
+C:\Users\Admin\Documents\SharpDevelop Projects\Apk-Decompiler\Apk Decompiler\obj\Debug\Apk Decompiler.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\SharpDevelop Projects\Apk-Decompiler\Apk Decompiler\obj\Debug\Apk_Decompiler.DecompileAPK.resources
+C:\Users\Admin\Documents\SharpDevelop Projects\Apk-Decompiler\Apk Decompiler\obj\Debug\Apk_Decompiler.DownloadResources.resources
+C:\Users\Admin\Documents\SharpDevelop Projects\Apk-Decompiler\Apk Decompiler\obj\Debug\Apk_Decompiler.HomeForm.resources
+C:\Users\Admin\Documents\SharpDevelop Projects\Apk-Decompiler\Apk Decompiler\obj\Debug\Apk_Decompiler.MainForm.resources
+C:\Users\Admin\Documents\SharpDevelop Projects\Apk-Decompiler\Apk Decompiler\obj\Debug\Apk Decompiler.csproj.GenerateResource.Cache
+C:\Users\Admin\Documents\SharpDevelop Projects\Apk-Decompiler\Apk Decompiler\bin\Debug\Apk Decompiler$(Version).exe.config
+C:\Users\Admin\Documents\SharpDevelop Projects\Apk-Decompiler\Apk Decompiler\bin\Debug\Apk Decompiler$(Version).exe
+C:\Users\Admin\Documents\SharpDevelop Projects\Apk-Decompiler\Apk Decompiler\obj\Debug\Apk Decompiler$(Version).exe
